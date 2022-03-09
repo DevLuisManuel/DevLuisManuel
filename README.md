@@ -10,6 +10,10 @@ Lover of dogs and cats, I am a duathlete and triathlete in training, I am proact
 to learn new things, as well as, I like to share my knowledge with other people.
 
 ---
+My mother is a pioneer in a foundation for homeless pets. Do you want to help us?
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/DevLuisManuel)
+
+---
 
 ```php
 <?php
