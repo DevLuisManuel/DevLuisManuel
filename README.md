@@ -36,29 +36,28 @@ class About extends Me
             Laravel::class,
             Symfony::class,
             Vuejs::class,
-            Aws::class,
             Docker::class,
             Jenkins::class,
+            MySql::class,
+            PostgreSql::class,
+            MongoDB::class,
+            SqlServer::class,
         ];
     }
 }
 ```
 
-## 🔧 Technologies & Tools
+## 🔧 Tools
 
 <div align="center">
-    <img alt="Php" src="https://img.shields.io/badge/php-%2314354C.svg?style=for-the-badge&logo=php"/>
-    <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23092E20.svg?style=for-the-badge&logo=javascript"/>
-    <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23092E20.svg?style=for-the-badge&logo=laravel"/>
-    <img alt="Symfony" src="https://img.shields.io/badge/symfony-%23092E20.svg?style=for-the-badge&logo=Symfony"/>
-    <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-    <img alt="Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins"/>
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-%232C5261.svg?style=for-the-badge&logo=Linux&color=yellow&logoColor=white"/>
     <img alt="Phpstorm" src="https://img.shields.io/badge/phpstorm-%232C5261.svg?style=for-the-badge&logo=Phpstorm&color=blueviolet&logoColor=white"/>
     <img alt="Webstorm" src="https://img.shields.io/badge/webstorm-%232C5261.svg?style=for-the-badge&logo=Webstorm&color=blue&logoColor=white"/>
+    <img alt="VisualStudioCode" src="https://img.shields.io/badge/Visual Studio Code-%232C5261.svg?style=for-the-badge&logo=visual-studio-code&color=blue&logoColor=white"/>
+    <img alt="Shell-Bash" src="https://img.shields.io/badge/Shell bash-%232C5261.svg?style=for-the-badge&logo=gnu-bash&color=white&logoColor=black"/>
+    <img alt="linux" src="https://img.shields.io/badge/linux-%232C5261.svg?style=for-the-badge&logo=linux&color=yellow&logoColor=white"/>
 </div>
 
-## 📝 My Site
+## 📝 My Site and Blog
 
 - Personal website and blog: https://devluismanuel.github.io/
 
