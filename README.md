@@ -6,11 +6,12 @@ to learn every day. I feel comfortable working with Docker, Docker compose and u
 to control version in order to improve the project assigned to me and GitHub actions to build images for Docker Hub. I
 am highly discipline, and I am able to work in teams.
 
-Lover of dogs and cats, I am a duathlete and triathlete in training, I am proactive in the work assigned to me, I like
+Cats and dogs lover, I am a duathlete and triathlete in training, I am proactive in the work assigned to me, I like
 to learn new things, as well as, I like to share my knowledge with other people.
 
 ---
 My mother is a pioneer in a foundation for homeless pets. Do you want to help us?
+---
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/DevLuisManuel)
 
 ---
