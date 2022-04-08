@@ -1,13 +1,14 @@
 # Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-My name is Luis Manuel Zuñiga Moreno, I'm a PHP Backend developer with more than 8 years of experience in the field of
-development using Laravel and Symfony framework. I am very proactive in everything is assigned to me and I really like
-to learn every day. I feel comfortable working with Docker, Docker compose and using Jenkins for CI/CD; also, I use Git
-to control version in order to improve the project assigned to me and GitHub actions to build images for Docker Hub. I
-am highly discipline, and I am able to work in teams.
+My name is Luis Manuel Zuñiga Moreno, I'm a PHP Backend Developer with more than 7 years of experience using Laravel and Symfony framework.
 
-Cats and dogs lover, I am a duathlete and triathlete in training, I am proactive in the work assigned to me, I like
-to learn new things, as well as, I like to share my knowledge with other people.
+I am very proactive in everything that is assigned to me and I really like to learn every day.
+
+I'm comfortable working with Docker, Docker compose, and use Jenkins for CI/CD; In addition, I use Git for version control to improve the project assigned to me and GitHub Actions to build images for Docker Hub.
+
+I am very disciplined, I am able to work in a team and in the future, I would like to be a Technical Leader as well as continue working remotely.
+
+If you want to contact me, you can write me via Email at ing.luiszuniga@dvloper.com.co
 
 ---
 My mother is a pioneer in a foundation for homeless pets. Do you want to help us?
