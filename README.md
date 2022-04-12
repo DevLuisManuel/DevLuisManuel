@@ -1,10 +1,10 @@
 # Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I am a PHP Backend Developer with more than 7 years of experience using Laravel and Symfony framework, I like working with Docker, Docker-compose and I use Jenkins for CI/CD; In addition, I use Git as version control in order to improve the project that is assigned to me and GitHub Actions to perform CI/CD as well.
-
-Lover of continuous learning, I am very disciplined, capable of working in a team and in the future, I would like to be a Technical Leader as well as continue working remotely.
+I am a PHP Backend Developer with more than 7 years of experience using Laravel and Symfony framework, I like working with Docker, Docker-compose and I use Jenkins for CI/CD; In addition, I use Git as version control in order to improve the project that is assigned to me and GitHub Actions to perform CI/CD as well. Lover of continuous learning, I am very disciplined, capable of working in a team and in the future, I would like to be a Technical Leader as well as continue working remotely.
 
 My native language is Spanish, but I really like the English language, my current level is B1, but with the idea of continuing to improve it more and more.
+
+Cats and dogs lover, I am a duathlete and triathlete in training.
 
 ---
 My mother is a pioneer in a foundation for homeless pets. Do you want to help us?
