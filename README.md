@@ -1,67 +1,19 @@
-# Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, this is my summary.
-
-I am a PHP Backend Developer with more than 7 years of experience using Laravel and Symfony framework, I like working with Docker, Docker-compose and I use Jenkins for CI/CD; In addition, I use Git as version control in order to improve the project that is assigned to me and GitHub Actions to perform CI/CD.
-
-Lover of continuous learning, I am very disciplined and capable of working in a team, and in the future, I would like to be a Technical Leader as well as continue working remotely.
-
-```php
-<?php
-
-namespace DevLuisManuel;
-
-class About extends Me
-{
-    public function getCurrentWorkplace(): array
-    {
-        return [
-            'workplace' => [
-                'company' => 'DVLOPER',
-                'position' => 'CEO'         
-            ]
-        ];
-    }
-
-    public function getDailyKnowledge(): array
-    {
-        return [
-            Php::class,
-            Javascript::class,
-            Laravel::class,
-            Symfony::class,
-            Vuejs::class,
-            Docker::class,
-            Jenkins::class,
-            MySql::class,
-            PostgreSql::class,
-            MongoDB::class,
-            SqlServer::class,
-        ];
-    }
-}
-```
-
-## 📝 My Site and Blog
-
-- Personal website and blog: https://devluismanuel.github.io/
-
-## 🗂️ What about some statistics?
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?show_icons=true&username=DevLuisManuel&hide=contribs,prs)](https://github.com/DevLuisManuel/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLuisManuel&layout=compact)](https://github.com/DevLuisManuel/github-readme-stats)
+# 💫 About Me:
+I am a PHP Backend Developer with more than 7 years of experience using Laravel and Symfony framework, I like working with Docker, Docker-compose and I use Jenkins for CI/CD
 
 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/DevLuisM) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/DevLuisManuel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devluism) 
 
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devluismanuel" />
-</a>
+# 💻 Tech Stack:
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DevLuisManuel&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DevLuisManuel&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLuisManuel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 👨‍💻 Stay in touch
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/devluism/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:ing.luiszunigam@gmail.com" target="_blank">
-  <img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=DevLuisManuel&icon=1&color=1)](https://visitcount.itsvg.in)
