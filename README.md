@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a PHP Backend Developer with more than 8 years of experience using Laravel and Symfony framework, I like working with Docker, Docker-compose and I use Jenkins for CI/CD
+I am a PHP Backend Developer with more than 9 years of experience using Laravel and Symfony framework.
 
 
 ## 🌐 Socials:
