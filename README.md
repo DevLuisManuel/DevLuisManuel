@@ -55,11 +55,11 @@ Throughout my career, I’ve worked end-to-end: from system design and developme
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Work
 
-![](https://github-readme-stats.vercel.app/api?username=DevLuisManuel&show_icons=true&theme=radical)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLuisManuel&layout=compact&theme=dark)
+- 🔗 Scalable API-based backend systems  
+- ⚙️ SaaS platforms with multi-tenant architecture  
+- 🤖 AI & automation integrations (LLMs, workflows)  
 
 ---
 
