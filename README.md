@@ -1,20 +1,84 @@
-# 💫 About Me
-Senior Backend Developer with 11+ years of experience in PHP, Laravel, and Symfony. Experienced in architecting and deploying SaaS platforms using Docker, Git, and AWS cloud services (S3, EC2, Lambda, RDS, CloudFormation, SNS/SQS, Bedrock). Recognized for delivering scalable solutions and fostering collaboration across teams. Passionate about technical excellence, mentoring, and driving innovation, with a clear path toward becoming a Technical Lead.
+# 👋 Hi, I'm Luis Manuel
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devluism)  
-📧 hola@dvloper.com.co
-
-# 💻 Tech Stack
-
-**Backend:** PHP (Laravel, Symfony), GraphQL, JavaScript  
-**Databases:** MySQL, PostgreSQL, MongoDB, MariaDB  
-**DevOps & Tools:** Docker, Docker Compose, Git, GitHub Actions  
-**Cloud:** AWS (S3, EC2, Lambda, RDS, CloudFormation, IAM, SNS/SQS, Bedrock), Google Cloud, DigitalOcean  
-**Web Servers:** Nginx  
-
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=DevLuisManuel&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLuisManuel&theme=dark&hide_border=false&layout=compact)
+🚀 Senior Backend Engineer | Laravel | APIs | Scalable Systems | AI & Automation  
 
 ---
+
+## 💫 About Me
+
+I’m a Senior Backend Engineer with 10+ years of experience building scalable, production-ready systems using PHP (Laravel) and modern cloud architectures.
+
+I specialize in designing backend systems that handle real-world complexity — including API integrations, asynchronous processing (queues, jobs), and high-performance applications at scale.
+
+Throughout my career, I’ve worked end-to-end: from system design and development to deployment, monitoring, and optimization. I’m comfortable taking ownership of systems and delivering reliable solutions in fast-paced environments.
+
+💡 Recently, I’ve been focusing on:
+- AI-driven systems & automation workflows  
+- LLM integrations (OpenAI / Bedrock)  
+- Scalable SaaS architectures  
+
+🎯 Goal: Transition into Technical Lead / AI-driven backend roles  
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devluism)  
+📧 hola@dvloper.com.co  
+
+---
+
+## 💻 Tech Stack
+
+### ⚙️ Backend
+- PHP (Laravel, Symfony)  
+- REST APIs, GraphQL  
+- System Design & Architecture  
+
+### 🗄️ Databases
+- MySQL, PostgreSQL, MariaDB  
+- Query optimization & performance tuning  
+
+### ⚡ DevOps & Infrastructure
+- Docker, Docker Compose  
+- CI/CD (GitHub Actions, Jenkins)  
+- Linux environments  
+
+### ☁️ Cloud
+- AWS (S3, EC2, Lambda, RDS, CloudFormation, IAM, SNS/SQS, Bedrock)  
+- Google Cloud, DigitalOcean  
+
+### 🔄 Architecture Patterns
+- Queue-based systems (Redis, Horizon)  
+- Event-driven architecture  
+- Multi-tenant SaaS systems  
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=DevLuisManuel&show_icons=true&theme=radical)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLuisManuel&layout=compact&theme=dark)
+
+---
+
+## 🧠 What I Bring
+
+- ✅ Strong backend architecture mindset  
+- ✅ Production-level problem solving  
+- ✅ API integrations & distributed systems  
+- ✅ Performance optimization & scalability  
+- ✅ Ownership from idea → production  
+
+---
+
+## ⚡ Currently Exploring
+
+- AI Engineering & LLM workflows  
+- Advanced system design  
+- High-scale SaaS platforms  
+
+---
+
+⭐️ Always open to collaborating on impactful projects and challenging problems.
