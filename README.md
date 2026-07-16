@@ -101,10 +101,7 @@ final readonly class LuisManuel
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=DevLuisManuel&show_icons=true&hide_border=true&theme=github_dark&title_color=39d353&icon_color=39c5cf&text_color=c9d1d9&bg_color=0d1117)
-![Streak](https://streak-stats.demolab.com/?user=DevLuisManuel&hide_border=true&theme=github-dark&ring=39d353&fire=39c5cf&currStreakLabel=39d353&background=0d1117)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLuisManuel&layout=compact&hide_border=true&theme=github_dark&title_color=39d353&text_color=c9d1d9&bg_color=0d1117)
+![GitHub Streak](https://streak-stats.demolab.com/?user=DevLuisManuel&hide_border=true&theme=github-dark&ring=39d353&fire=39c5cf&currStreakLabel=39d353&background=0d1117)
 
 </div>
 
