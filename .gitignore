@@ -1,1 +1,13 @@
 .idea
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Local preview / working files (no van al repo)
+preview.html
+readme_preview.html
+*preview*.png
+readme-full.png
+.playwright-mcp/
